@@ -1,0 +1,1 @@
+web: newrelic-admin run-program gunicorn my-flask-app:app
